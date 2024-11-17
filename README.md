@@ -1,6 +1,10 @@
- <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=500&color=F75C7E&center=true&vCenter=true&multiline=true&width=800&height=80&lines=سلام!+من+علی+سلیمانی+هستم!;برنامه+نویس+هوش+مصنوعی+%7C+دانشجوی+IT" alt="Typing SVG" />
+<div align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=500&color=F75C7E&center=true&vCenter=true&multiline=true&width=800&height=80&lines=سلام!+من+علی+سلیمانی+هستم!;مهندس+IT+%7C+برنامه+نویس+هوش+مصنوعی" 
+    alt="Typing SVG" 
+  />
 </div>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg" alt="Snake Animation" />
