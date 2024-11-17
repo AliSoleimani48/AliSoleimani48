@@ -23,17 +23,24 @@
 
 <h2 align="right">الان به چه کار هایی مشغول هستم 🌚</h2>
 
- <h3 align="right">🌟 توسعه بک‌اند آکادمی سبزلرن</h3>
- <h3 align="right">🌟 تدریس دوره گیت و گیت‌هاب</h3>
+ <h3 align="right">🌟 توسعه بک‌اند</h3>
+ <h3 align="right">🌟 تدریس دوره های هوش مصنوعی</h3>
  <h3 align="right">🌟 تولید محتوا</h3>
- <h3 align="right">🌟 توسعه فرانت‌اند سایت Onlyjs</h3>
+ <h3 align="right">🌟 کار با deep lear</h3>
 
 <br />
 
 <h2 align="right">الان دارم با اینا کار می‌کنم 👨‍💻</h2>
 
-<h3 align="left">🖥 JavaScript | 80%</h3> <img width="400px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
+<h3 align="left">🖥 Python | 80%</h3> <img width="400px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
 
 <br />
 
-<h3 align="left">🖥 React Js | 50%</h3> <img width="250px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
+<h3 align="left">🖥 C++ | 40%</h3> <img width="250px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
+
+<br />
+
+<h3 align="left">🖥 JavaScript | 80%</h3> <img width="400px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
+
+
+
