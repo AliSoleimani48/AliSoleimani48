@@ -34,7 +34,6 @@
 
 <h2 align="center">🌍 ارتباط با من:</h2>
 <p align="center">
-  <a href="https://instagram.com/username"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" /></a>
   <a href="https://t.me/ELIOT2050"><img src="https://img.icons8.com/fluency/48/000000/telegram-app.png" alt="Telegram" /></a>
   <a href="mailto:your-email@example.com"><img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Email" /></a>
 </p>
