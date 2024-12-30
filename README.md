@@ -29,9 +29,9 @@
 
 <h2 align="center">📈 وضعیت مهارت‌ها:</h2>
 <div align="center">
-<h3 align="left">🖥 JavaScript | 60%</h3> <img width="400px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
-<h3 align="left">🖥 Python | 80%</h3> <img width="400px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
- <h3 align="left">🖥 C++ | 30%</h3> <img width="400px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
+<h3 align="left">🖥 JavaScript | 60%</h3> <img width="400px"  />
+<h3 align="left">🖥 Python | 80%</h3> <img width="400px"  />
+ <h3 align="left">🖥 C++ | 30%</h3> <img width="400px"  />
 </div>
 
 ---
@@ -39,14 +39,13 @@
 <h2 align="center">🌍 ارتباط با من:</h2>
 <p align="center">
   <a href="https://t.me/ELIOT2050"><img src="https://img.icons8.com/fluency/48/000000/telegram-app.png" alt="Telegram" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Email" /></a>
+  <a href="48soleimani.ali@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Email" /></a>
 </p>
 
 ---
 
 <h2 align="center">📚 پروژه‌های فعلی:</h2>
 <p align="center">
-  <img src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" width="70%" alt="Progress Bar" />
 </p>
 
 <ul align="center">
