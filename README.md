@@ -1,13 +1,8 @@
-<p align="center">
- 👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻
-</p>
-
-
 <img align="center" src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg" />
 
 <h2 align="center">سلام 🖐 من علی سلیمانی هستم</h2>
 <p align="center">
-  برنامه نویس Ai 🖥 دانشجوی رشته مهندسی کامپیوتر 👨‍💻 
+Ai Developer
 </p>
 
 <br />
@@ -24,14 +19,14 @@
 
 <br />
 
-<h2 align="right">الان به چه کار هایی مشغول هستم 🌚</h2>
+<h2 align="right">الان به چه کار هایی مشغول هستم</h2>
 
- <h3 align="right">Back-end devloper</h3>
+ <h3 align="right">Back-end Developer</h3>
  <h3 align="right">Deep Learning</h3>
 
 <br />
 
-<h2 align="right">الان دارم با اینا کار می‌کنم 👨‍💻</h2>
+<h2 align="right">الان دارم با اینا کار می‌کنم</h2>
 
 <h3 align="left">🖥 Python | 80%</h3>
 
