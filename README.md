@@ -46,9 +46,3 @@ Currently working with Python, C++, and Rust — building things that think.
 - 📖 Leveling up in Rust
 
 ---
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imrrobat&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
-
-</div>
