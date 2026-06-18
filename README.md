@@ -9,7 +9,8 @@
 
 **AI Developer · Backend Engineer · Deep Learning**
 
-[![Telegram](https://img.shields.io/badge/Telegram-@ELIOT2050-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/ELIOT2050)
+[![Telegram](https://img.shields.io/badge/Telegram-@Arkenil-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Arkenil)
+[![Telegram](https://img.shields.io/badge/Telegram-@arkenilDOTnet-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/arkenilDOTnet)
 
 </div>
 
