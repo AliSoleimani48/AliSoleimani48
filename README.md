@@ -26,10 +26,8 @@
 
 <h2 align="right">الان به چه کار هایی مشغول هستم 🌚</h2>
 
- <h3 align="right">🌟 توسعه ‌فرانت اند</h3>
- <h3 align="right">🌟 توسعه بک‌اند</h3>
- <h3 align="right">🌟 تولید محتوا</h3>
- <h3 align="right">🌟Deep Learning</h3>
+ <h3 align="right">Back-end devloper</h3>
+ <h3 align="right">Deep Learning</h3>
 
 <br />
 
